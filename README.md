@@ -61,3 +61,9 @@
   
   </ul>
 
+<h1>TacosX</h1>
+<h3>Link to the activities</h3>
+<ul>
+  <li><a href='https://fredinvazquez.github.io/TacosXLaunch/menuTaqueria.html'>Restaurant menu - HTML structure</a></li>
+  <li><a href='https://fredinvazquez.github.io/TacosXLaunch/Pedido.html'>Food order - HTML structure</a></li>
+</ul>
