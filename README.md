@@ -4,9 +4,9 @@
 
 <ul>
   
-  <li><a href='https://www.canva.com/design/DAE7c6y_cTw/K03cavu-bWGiaq4JSstpUA/edit?utm_content=DAE7c6y_cTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>Infografía para dar a conocer la página - Mercadotecnia</a></li>
-  <li><a href='https://fredinvazquez.github.io/Vaccination_LaunchX/VaccinationHomePage-Maquetacion.html'>Maqueta de página . Vaccination</a></li>
-  <li><a href='https://fredinvazquez.github.io/Vaccination_LaunchX/VaccinationHomePage.html'>Página clonada (con estilos) - Vaccination</a></li>
+  <li><a href='https://www.canva.com/design/DAE7c6y_cTw/K03cavu-bWGiaq4JSstpUA/edit?utm_content=DAE7c6y_cTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>Infography - Marketing </a></li>
+  <li><a href='https://fredinvazquez.github.io/Vaccination_LaunchX/VaccinationHomePage-Maquetacion.html'>HTML structure</a></li>
+  <li><a href='https://fredinvazquez.github.io/Vaccination_LaunchX/VaccinationHomePage.html'>Vaccination Page - Vaccination</a></li>
   
   
   </ul>
